@@ -6,7 +6,7 @@ package rangearray
 // those runs.
 //
 // Note that the data structure is optimized for insertions only at the
-// end; insertions before the end can be very expensive.  Searches over
+// end; insertions before the end can be very expensive.  A search over
 // n runs takes O(log(n)) time.
 
 // As motivation, the original application for this package was to
